@@ -1,0 +1,31 @@
+
+
+  .header {
+     /* some padding */
+    text-align: center; /* center the text */
+ 
+  }
+  .body
+  {color: rgb(0, 0, 0);
+    background-color: #fff0f5;
+    padding: 20px 20px 20px 20px;
+  
+    width: 400px;
+    margin: 20px auto; /* Vertical  Horizontal */
+    border: 3px solid #f170b1;
+    
+  }
+
+  .body h2{
+    font-size: 25px;
+    text-align: left;
+  }
+
+
+  .highlight{
+    display: inline;
+    background-color: yellow;
+}
+  .link{
+      text-align: center;
+  }
